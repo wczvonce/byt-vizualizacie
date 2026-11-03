@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 766 515" width="766" height="515" role="img" aria-label="Pôdorys kuchyne v mierke s linkou, skriňami a kótami"><defs><style>
+.floor{fill:#efe2cf}.wall{fill:#2a2622}.win{fill:#d8ecf8;stroke:#7fb2d6;stroke-width:1}.winl{stroke:#5a93bd;stroke-width:1.5}
+.door{stroke:#2a2622;stroke-width:3}.arc{fill:none;stroke:#6f665d;stroke-width:1;stroke-dasharray:4 3}
+.ward{fill:#f2ede5;stroke:#8a8073;stroke-width:1}.desk{fill:#e9dcc7;stroke:#8a8073;stroke-width:1}
+.oak{fill:#d9bb92;stroke:#8a6f50;stroke-width:1}.top{fill:#ebe3d5;stroke:#8a8073;stroke-width:1}
+.black{fill:#2a2622}.ring{fill:none;stroke:#8a8073;stroke-width:1.2}.sink{fill:#fbf8f3;stroke:#8a8073;stroke-width:1.2}
+.upper{fill:none;stroke:#6f665d;stroke-width:1;stroke-dasharray:6 4}.led{stroke:#f2a516;stroke-width:3;stroke-dasharray:8 4}
+.stool{fill:#f7f3ec;stroke:#8a8073;stroke-width:1}.ceil{fill:#f6d55c;stroke:#a88a12;stroke-width:1.5}
+.x{stroke:#2a2622;stroke-width:1.4}.sock{fill:#d63c3c;stroke:#fff;stroke-width:1}.dim{stroke:#9b2f8f;stroke-width:1}
+.reach{fill:#fbe3cf;opacity:.55}.reachl{stroke:#d2650c;stroke-width:1.5;stroke-dasharray:6 4}
+text{font-family:Barlow,"Segoe UI",Arial,sans-serif}.dimt{fill:#9b2f8f;font-size:13px;font-weight:600}
+.lbl{fill:#4a433c;font-size:12px}.tiny{fill:#6f665d;font-size:10px}.big{fill:#2a2622;font-size:13px;font-weight:700}
+.code{fill:#2a2622;font-size:11px;font-weight:700}.muted{fill:#6f665d;font-size:12px}.inv{fill:#efe9e1;font-size:12px}
+</style></defs><rect width="100%" height="100%" fill="#ffffff"/><rect class="floor" x="166.0" y="87.0" width="434.0" height="294.0"/>
+<rect class="wall" x="145.0" y="381.0" width="140.0" height="42.0"/>
+<rect class="wall" x="488.0" y="381.0" width="133.0" height="42.0"/>
+<rect class="win" x="285.0" y="381.0" width="203.0" height="42.0"/>
+<line class="winl" x1="285.0" y1="404.1" x2="488.0" y2="404.1"/>
+<rect class="wall" x="145.0" y="66.0" width="476.0" height="21.0"/>
+<rect class="wall" x="145.0" y="288.6" width="21.0" height="92.4"/>
+<rect class="wall" x="145.0" y="87.0" width="21.0" height="100.8"/>
+<rect class="wall" x="600.0" y="278.8" width="21.0" height="102.2"/>
+<rect class="wall" x="600.0" y="87.0" width="21.0" height="93.1"/>
+<line class="door" x1="145.0" y1="288.6" x2="44.2" y2="288.6"/>
+<path class="arc" d="M 44.2 288.6 A 100.8 100.8 0 0 1 145.0 187.8"/>
+<text class="muted" x="89.0" y="162.6" text-anchor="middle" dominant-baseline="middle">detská</text>
+<line class="door" x1="621.0" y1="278.8" x2="719.7" y2="278.8"/>
+<path class="arc" d="M 719.7 278.8 A 98.7 98.7 0 0 0 621.0 180.1"/>
+<text class="muted" x="677.0" y="154.9" text-anchor="middle" dominant-baseline="middle">obývačka</text>
+<rect class="reach" x="166.0" y="171.0" width="434.0" height="44.8"/>
+<line class="reachl" x1="166.0" y1="215.8" x2="600.0" y2="215.8"/>
+<text class="tiny" x="252.8" y="207.4" text-anchor="start" dominant-baseline="middle">dosah otvorených horných dvierok 92 cm</text>
+<rect class="top" x="166.0" y="87.0" width="434.0" height="86.8"/>
+<rect class="ward" x="168.1" y="87.0" width="84.0" height="84.0"/>
+<text class="code" x="210.1" y="159.8" text-anchor="middle" dominant-baseline="middle">DREZ 60</text>
+<rect class="ward" x="252.1" y="87.0" width="84.0" height="84.0"/>
+<text class="code" x="294.1" y="159.8" text-anchor="middle" dominant-baseline="middle">UMÝVAČKA 60</text>
+<rect class="ward" x="336.1" y="87.0" width="84.0" height="84.0"/>
+<text class="code" x="378.1" y="159.8" text-anchor="middle" dominant-baseline="middle">ŠUPLÍKY 60</text>
+<rect class="ward" x="420.1" y="87.0" width="84.0" height="84.0"/>
+<text class="code" x="462.1" y="159.8" text-anchor="middle" dominant-baseline="middle">RÚRA 60</text>
+<rect class="ward" x="504.1" y="87.0" width="93.8" height="84.0"/>
+<text class="code" x="551.0" y="159.8" text-anchor="middle" dominant-baseline="middle">ŠUPLÍKY 67</text>
+<rect class="sink" x="178.6" y="101.0" width="63.0" height="37.8"/>
+<circle class="black" cx="233.9" cy="94.0" r="3.1"/>
+<rect class="black" x="421.5" y="94.0" width="81.2" height="42.0"/>
+<circle class="ring" cx="441.1" cy="124.7" r="8.4"/>
+<circle class="ring" cx="483.1" cy="124.7" r="6.8"/>
+<circle class="ring" cx="441.1" cy="101.3" r="6.8"/>
+<circle class="ring" cx="483.1" cy="101.3" r="8.4"/>
+<line class="upper" x1="166.0" y1="138.8" x2="600.0" y2="138.8"/>
+<line class="led" x1="168.8" y1="142.3" x2="597.2" y2="142.3"/>
+<rect class="ward" x="166.0" y="297.0" width="84.0" height="84.0"/>
+<text class="code" x="208.0" y="330.6" text-anchor="middle" dominant-baseline="middle">CHLADNIČKA</text>
+<text class="tiny" x="208.0" y="347.4" text-anchor="middle" dominant-baseline="middle">vstavaná 60</text>
+<rect class="ward" x="516.0" y="297.0" width="84.0" height="84.0"/>
+<text class="code" x="558.0" y="330.6" text-anchor="middle" dominant-baseline="middle">POTRAVINOVÁ</text>
+<text class="tiny" x="558.0" y="347.4" text-anchor="middle" dominant-baseline="middle">skriňa 60</text>
+<rect class="oak" x="250.0" y="297.0" width="35.0" height="84.0"/>
+<text class="tiny" x="267.5" y="339.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 267.5 339.0)">police</text>
+<rect class="oak" x="488.0" y="297.0" width="28.0" height="84.0"/>
+<text class="tiny" x="502.0" y="339.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 502.0 339.0)">police</text>
+<rect class="oak" x="285.0" y="334.8" width="203.0" height="46.2"/>
+<text class="tiny" x="386.5" y="364.2" text-anchor="middle" dominant-baseline="middle">barová doska 90 cm pod oknom</text>
+<circle class="stool" cx="335.4" cy="320.8" r="23.8"/>
+<circle class="stool" cx="387.2" cy="320.8" r="23.8"/>
+<circle class="stool" cx="440.4" cy="320.8" r="23.8"/>
+<circle class="ceil" cx="383.0" cy="255.0" r="12.6"/>
+<line class="x" x1="374.7" y1="263.3" x2="391.3" y2="246.7"/>
+<line class="x" x1="374.7" y1="246.7" x2="391.3" y2="263.3"/>
+<text class="code" x="411.0" y="255.0" text-anchor="start" dominant-baseline="middle">S3</text>
+<circle class="sock" cx="369.0" cy="91.2" r="4.9"/>
+<text class="code" x="369.0" y="182.2" text-anchor="middle" dominant-baseline="middle">Z10</text>
+<circle class="sock" cx="540.5" cy="91.2" r="4.9"/>
+<text class="code" x="540.5" y="182.2" text-anchor="middle" dominant-baseline="middle">Z11+V7</text>
+<circle class="sock" cx="170.2" cy="157.0" r="4.9"/>
+<text class="code" x="177.2" y="182.2" text-anchor="start" dominant-baseline="middle">V6</text>
+<line class="dim" x1="166.0" y1="32.4" x2="600.0" y2="32.4"/>
+<line class="dim" x1="166.0" y1="39.4" x2="166.0" y2="25.4"/>
+<line class="dim" x1="600.0" y1="39.4" x2="600.0" y2="25.4"/>
+<text class="dimt" x="383.0" y="17.0" text-anchor="middle" dominant-baseline="middle">310</text>
+<line class="dim" x1="166.0" y1="459.4" x2="250.0" y2="459.4"/>
+<line class="dim" x1="166.0" y1="466.4" x2="166.0" y2="452.4"/>
+<line class="dim" x1="250.0" y1="466.4" x2="250.0" y2="452.4"/>
+<text class="dimt" x="208.0" y="444.0" text-anchor="middle" dominant-baseline="middle">60</text>
+<line class="dim" x1="250.0" y1="459.4" x2="285.0" y2="459.4"/>
+<line class="dim" x1="250.0" y1="466.4" x2="250.0" y2="452.4"/>
+<line class="dim" x1="285.0" y1="466.4" x2="285.0" y2="452.4"/>
+<text class="dimt" x="267.5" y="444.0" text-anchor="middle" dominant-baseline="middle">25</text>
+<line class="dim" x1="285.0" y1="459.4" x2="488.0" y2="459.4"/>
+<line class="dim" x1="285.0" y1="466.4" x2="285.0" y2="452.4"/>
+<line class="dim" x1="488.0" y1="466.4" x2="488.0" y2="452.4"/>
+<text class="dimt" x="386.5" y="444.0" text-anchor="middle" dominant-baseline="middle">okno 145</text>
+<line class="dim" x1="488.0" y1="459.4" x2="516.0" y2="459.4"/>
+<line class="dim" x1="488.0" y1="466.4" x2="488.0" y2="452.4"/>
+<line class="dim" x1="516.0" y1="466.4" x2="516.0" y2="452.4"/>
+<text class="dimt" x="502.0" y="444.0" text-anchor="middle" dominant-baseline="middle">20</text>
+<line class="dim" x1="516.0" y1="459.4" x2="600.0" y2="459.4"/>
+<line class="dim" x1="516.0" y1="466.4" x2="516.0" y2="452.4"/>
+<line class="dim" x1="600.0" y1="466.4" x2="600.0" y2="452.4"/>
+<text class="dimt" x="558.0" y="444.0" text-anchor="middle" dominant-baseline="middle">60</text>
+<line class="dim" x1="210.8" y1="297.0" x2="210.8" y2="171.0"/>
+<line class="dim" x1="203.8" y1="297.0" x2="217.8" y2="297.0"/>
+<line class="dim" x1="203.8" y1="171.0" x2="217.8" y2="171.0"/>
+<text class="dimt" x="224.8" y="234.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 224.8 234.0)">priechod 90</text>
+<line class="dim" x1="107.2" y1="381.0" x2="107.2" y2="87.0"/>
+<line class="dim" x1="100.2" y1="381.0" x2="114.2" y2="381.0"/>
+<line class="dim" x1="100.2" y1="87.0" x2="114.2" y2="87.0"/>
+<text class="dimt" x="93.2" y="234.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 93.2 234.0)">210</text>
+<line class="dim" x1="156.2" y1="288.6" x2="156.2" y2="187.8"/>
+<line class="dim" x1="149.2" y1="288.6" x2="163.2" y2="288.6"/>
+<line class="dim" x1="149.2" y1="187.8" x2="163.2" y2="187.8"/>
+<text class="dimt" x="142.2" y="238.2" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 142.2 238.2)">72</text>
+<line class="dim" x1="609.8" y1="278.8" x2="609.8" y2="180.1"/>
+<line class="dim" x1="602.8" y1="278.8" x2="616.8" y2="278.8"/>
+<line class="dim" x1="602.8" y1="180.1" x2="616.8" y2="180.1"/>
+<text class="dimt" x="623.8" y="229.4" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 623.8 229.4)">70</text></svg>

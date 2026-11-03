@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 402 560" width="402" height="560" role="img" aria-label="Pôdorys WC v mierke"><defs><style>
+.floor{fill:#efe2cf}.wall{fill:#2a2622}.win{fill:#d8ecf8;stroke:#7fb2d6;stroke-width:1}.winl{stroke:#5a93bd;stroke-width:1.5}
+.door{stroke:#2a2622;stroke-width:3}.arc{fill:none;stroke:#6f665d;stroke-width:1;stroke-dasharray:4 3}
+.ward{fill:#f2ede5;stroke:#8a8073;stroke-width:1}.desk{fill:#e9dcc7;stroke:#8a8073;stroke-width:1}
+.oak{fill:#d9bb92;stroke:#8a6f50;stroke-width:1}.top{fill:#ebe3d5;stroke:#8a8073;stroke-width:1}
+.black{fill:#2a2622}.ring{fill:none;stroke:#8a8073;stroke-width:1.2}.sink{fill:#fbf8f3;stroke:#8a8073;stroke-width:1.2}
+.upper{fill:none;stroke:#6f665d;stroke-width:1;stroke-dasharray:6 4}.led{stroke:#f2a516;stroke-width:3;stroke-dasharray:8 4}
+.stool{fill:#f7f3ec;stroke:#8a8073;stroke-width:1}.ceil{fill:#f6d55c;stroke:#a88a12;stroke-width:1.5}
+.x{stroke:#2a2622;stroke-width:1.4}.sock{fill:#d63c3c;stroke:#fff;stroke-width:1}.dim{stroke:#9b2f8f;stroke-width:1}
+.reach{fill:#fbe3cf;opacity:.55}.reachl{stroke:#d2650c;stroke-width:1.5;stroke-dasharray:6 4}
+text{font-family:Barlow,"Segoe UI",Arial,sans-serif}.dimt{fill:#9b2f8f;font-size:13px;font-weight:600}
+.lbl{fill:#4a433c;font-size:12px}.tiny{fill:#6f665d;font-size:10px}.big{fill:#2a2622;font-size:13px;font-weight:700}
+.code{fill:#2a2622;font-size:11px;font-weight:700}.muted{fill:#6f665d;font-size:12px}.inv{fill:#efe9e1;font-size:12px}
+</style></defs><rect width="100%" height="100%" fill="#ffffff"/><rect class="floor" x="132.0" y="210.0" width="160.0" height="240.0"/>
+<rect class="wall" x="102.0" y="450.0" width="220.0" height="30.0"/>
+<rect class="wall" x="102.0" y="190.0" width="30.0" height="260.0"/>
+<rect class="wall" x="292.0" y="190.0" width="30.0" height="260.0"/>
+<rect class="wall" x="102.0" y="190.0" width="46.0" height="20.0"/>
+<rect class="wall" x="270.0" y="190.0" width="52.0" height="20.0"/>
+<line class="door" x1="148.0" y1="190.0" x2="148.0" y2="68.0"/>
+<path class="arc" d="M 148.0 68.0 A 122.0 122.0 0 0 1 270.0 190.0"/>
+<text class="muted" x="262.0" y="100.0" text-anchor="middle" dominant-baseline="middle">chodba</text>
+<rect class="oak" x="132.0" y="410.0" width="160.0" height="40.0"/>
+<text class="tiny" x="212.0" y="430.0" text-anchor="middle" dominant-baseline="middle">predstena + skrinka</text>
+<path class="sink" d="M 177.0 410.0 L 177.0 339.0 L 177.0 339.0 L 177.3 334.4 L 178.2 329.9 L 179.7 325.6 L 181.7 321.5 L 184.2 317.7 L 187.3 314.3 L 190.7 311.2 L 194.5 308.7 L 198.6 306.7 L 202.9 305.2 L 207.4 304.3 L 212.0 304.0 L 216.6 304.3 L 221.1 305.2 L 225.4 306.7 L 229.5 308.7 L 233.3 311.2 L 236.7 314.3 L 239.8 317.7 L 242.3 321.5 L 244.3 325.6 L 245.8 329.9 L 246.7 334.4 L 247.0 339.0 L 247.0 410.0 Z"/>
+<text class="code" x="212.0" y="382.0" text-anchor="middle" dominant-baseline="middle">WC</text>
+<circle class="ceil" cx="212.0" cy="330.0" r="14.0"/>
+<line class="x" x1="202.8" y1="339.2" x2="221.2" y2="320.8"/>
+<line class="x" x1="202.8" y1="320.8" x2="221.2" y2="339.2"/>
+<text class="code" x="238.0" y="326.0" text-anchor="start" dominant-baseline="middle">S6</text>
+<circle class="sock" cx="286.0" cy="252.0" r="7.0"/>
+<text class="code" x="276.0" y="252.0" text-anchor="end" dominant-baseline="middle">VE1</text>
+<line class="dim" x1="132.0" y1="516.0" x2="292.0" y2="516.0"/>
+<line class="dim" x1="132.0" y1="526.0" x2="132.0" y2="506.0"/>
+<line class="dim" x1="292.0" y1="526.0" x2="292.0" y2="506.0"/>
+<text class="dimt" x="212.0" y="494.0" text-anchor="middle" dominant-baseline="middle">80</text>
+<line class="dim" x1="62.0" y1="450.0" x2="62.0" y2="210.0"/>
+<line class="dim" x1="52.0" y1="450.0" x2="72.0" y2="450.0"/>
+<line class="dim" x1="52.0" y1="210.0" x2="72.0" y2="210.0"/>
+<text class="dimt" x="42.0" y="330.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 42.0 330.0)">120 (odčítané)</text>
+<line class="dim" x1="342.0" y1="304.0" x2="342.0" y2="210.0"/>
+<line class="dim" x1="332.0" y1="304.0" x2="352.0" y2="304.0"/>
+<line class="dim" x1="332.0" y1="210.0" x2="352.0" y2="210.0"/>
+<text class="dimt" x="362.0" y="257.0" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 362.0 257.0)">47 voľno</text></svg>

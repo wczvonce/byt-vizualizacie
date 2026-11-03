@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 676 667" width="676" height="667" role="img" aria-label="Pôdorys spálne v mierke s nábytkom a kótami"><defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="6" fill="#dcebf7"/><line x1="0" y1="0" x2="0" y2="6" stroke="#7fb2d6" stroke-width="1.2"/></pattern><style>
+.floor{fill:#efe2cf}.wall{fill:#2a2622}.win{fill:#d8ecf8;stroke:#7fb2d6;stroke-width:1}.winl{stroke:#5a93bd;stroke-width:1.5}
+.soklik{fill:url(#hatch);stroke:#5a93bd;stroke-width:1}.door{stroke:#2a2622;stroke-width:3}.arc{fill:none;stroke:#6f665d;stroke-width:1;stroke-dasharray:4 3}
+.ward{fill:#f7f3ec;stroke:#8a8073;stroke-width:1}.desk{fill:#e9dcc7;stroke:#8a8073;stroke-width:1}.mirror{stroke:#7fb2d6;stroke-width:4}
+.pouf{fill:#f7f3ec;stroke:#8a8073;stroke-width:1}.bed{fill:#f2ebe0;stroke:#8a8073;stroke-width:1.2}.bedhead{fill:#e6dccd;stroke:#8a8073;stroke-width:1}
+.quilt{fill:#d8c8b2;stroke:#a8957f;stroke-width:1}.pillow{fill:#a08b76;stroke:#7d6b59;stroke-width:1}
+.night{fill:#e4dacb;stroke:#8a8073;stroke-width:1}.pend{fill:#f4c27a;stroke:#d2650c;stroke-width:1.5}.ceil{fill:#f6d55c;stroke:#a88a12;stroke-width:1.5}
+.x{stroke:#2a2622;stroke-width:1.4}.sock{fill:#d63c3c;stroke:#fff;stroke-width:1}.oak{fill:#b88a5a}.plaster{fill:#d9cab4}
+.axis{stroke:#2f8a4f;stroke-width:1;stroke-dasharray:6 4}.dim{stroke:#9b2f8f;stroke-width:1}
+text{font-family:Barlow,"Segoe UI",Arial,sans-serif}.dimt{fill:#9b2f8f;font-size:13px;font-weight:600}
+.lbl{fill:#4a433c;font-size:12px}.tiny{fill:#6f665d;font-size:10px}.big{fill:#2a2622;font-size:14px;font-weight:700}
+.code{fill:#2a2622;font-size:11px;font-weight:700}.muted{fill:#6f665d;font-size:12px}.inv{fill:#efe9e1;font-size:12px}
+</style></defs><rect width="100%" height="100%" fill="#ffffff"/><rect class="floor" x="128.0" y="88.0" width="434.4" height="475.2" />
+<rect class="wall" x="500.0" y="370.0" width="62.4" height="193.2" />
+<rect class="oak" x="128.0" y="560.6" width="87.0" height="2.6" />
+<rect class="oak" x="431.0" y="560.6" width="69.0" height="2.6" />
+<rect class="plaster" x="215.0" y="561.8" width="216.0" height="1.4" />
+<rect class="wall" x="92.0" y="474.4" width="36.0" height="106.8" />
+<rect class="wall" x="92.0" y="70.0" width="36.0" height="182.4" />
+<rect class="wall" x="128.0" y="563.2" width="372.0" height="18.0" />
+<rect class="wall" x="500.0" y="563.2" width="80.4" height="18.0" />
+<rect class="wall" x="562.4" y="358.0" width="18.0" height="12.0" />
+<rect class="wall" x="562.4" y="70.0" width="18.0" height="192.0" />
+<rect class="wall" x="92.0" y="70.0" width="488.4" height="18.0" />
+<rect class="win" x="92.0" y="252.4" width="36.0" height="222.0" />
+<line class="winl" x1="108.2" y1="474.4" x2="108.2" y2="252.4"/>
+<rect class="soklik" x="128.0" y="88.0" width="18.0" height="475.2" />
+<text class="tiny" x="137.0" y="137.2" text-anchor="middle" transform="rotate(-90 137.0 137.2)">SOKLÍK</text>
+<line class="door" x1="562.4" y1="358.0" x2="466.4" y2="358.0"/>
+<path class="arc" d="M 466.4 358.0 A 96.0 96.0 0 0 1 562.4 262.0"/>
+<rect class="ward" x="148.4" y="88.0" width="72.0" height="72.0" />
+<rect class="ward" x="316.4" y="88.0" width="60.0" height="72.0" />
+<rect class="ward" x="376.4" y="88.0" width="60.0" height="72.0" />
+<rect class="ward" x="436.4" y="88.0" width="60.0" height="72.0" />
+<rect class="ward" x="496.4" y="88.0" width="60.0" height="72.0" />
+<rect class="ward" x="556.4" y="88.0" width="6.0" height="72.0" />
+<rect class="desk" x="220.4" y="88.0" width="96.0" height="66.0" />
+<line class="mirror" x1="232.4" y1="91.6" x2="304.4" y2="91.6"/>
+<text class="lbl" x="184.4" y="120.4" text-anchor="middle">skriňa 60</text>
+<text class="lbl" x="268.4" y="119.2" text-anchor="middle">stolík 80</text>
+<text class="tiny" x="268.4" y="136.0" text-anchor="middle">LED zrkadlo</text>
+<text class="lbl" x="436.4" y="120.4" text-anchor="middle">skriňa 4 × 50, po strop</text>
+<text class="tiny" x="436.4" y="139.6" text-anchor="middle">hĺbka 60, bez úchytiek</text>
+<circle class="pouf" cx="268.4" cy="185.2" r="24.0"/>
+<rect class="bed" x="215.0" y="323.2" width="216.0" height="240.0" />
+<rect class="bedhead" x="215.0" y="547.6" width="216.0" height="15.6" />
+<rect class="bedhead" x="215.0" y="323.2" width="216.0" height="28.8" />
+<rect class="quilt" x="210.2" y="351.4" width="225.6" height="137.4" />
+<rect class="pillow" x="237.8" y="524.8" width="76.8" height="20.4" />
+<rect class="pillow" x="331.4" y="524.8" width="76.8" height="20.4" />
+<text class="big" x="323.0" y="428.8" text-anchor="middle">POSTEĽ 180 × 200</text>
+<text class="tiny" x="323.0" y="448.0" text-anchor="middle">čalúnené čelo a päta</text>
+<line class="axis" x1="323.0" y1="560.8" x2="323.0" y2="323.2"/>
+<circle class="night" cx="182.0" cy="533.2" r="25.2"/>
+<circle class="pend" cx="182.0" cy="533.2" r="10.8"/>
+<line class="x" x1="174.8" y1="540.4" x2="189.2" y2="526.0"/>
+<line class="x" x1="174.8" y1="526.0" x2="189.2" y2="540.4"/>
+<circle class="night" cx="464.0" cy="533.2" r="25.2"/>
+<circle class="pend" cx="464.0" cy="533.2" r="10.8"/>
+<line class="x" x1="456.8" y1="540.4" x2="471.2" y2="526.0"/>
+<line class="x" x1="456.8" y1="526.0" x2="471.2" y2="540.4"/>
+<text class="code" x="182.0" y="493.6" text-anchor="middle">P1</text>
+<text class="code" x="464.0" y="493.6" text-anchor="middle">P2</text>
+<circle class="ceil" cx="323.0" cy="323.2" r="10.8"/>
+<line class="x" x1="315.8" y1="330.4" x2="330.2" y2="316.0"/>
+<line class="x" x1="315.8" y1="316.0" x2="330.2" y2="330.4"/>
+<text class="code" x="351.8" y="319.6" text-anchor="middle">S1</text>
+<circle class="sock" cx="182.0" cy="559.6" r="4.2"/>
+<circle class="sock" cx="464.0" cy="559.6" r="4.2"/>
+<circle class="sock" cx="558.8" cy="196.0" r="4.2"/>
+<circle class="sock" cx="558.8" cy="238.0" r="4.2"/>
+<circle class="sock" cx="268.4" cy="91.6" r="4.2"/>
+<text class="code" x="548.0" y="196.0" text-anchor="end">Z3</text>
+<text class="code" x="548.0" y="238.0" text-anchor="end">V1</text>
+<line class="dim" x1="128.0" y1="43.6" x2="562.4" y2="43.6"/>
+<line class="dim" x1="128.0" y1="49.6" x2="128.0" y2="37.6"/>
+<line class="dim" x1="562.4" y1="49.6" x2="562.4" y2="37.6"/>
+<text class="dimt" x="345.2" y="37.6" text-anchor="middle">362</text>
+<line class="dim" x1="128.0" y1="617.2" x2="500.0" y2="617.2"/>
+<line class="dim" x1="128.0" y1="623.2" x2="128.0" y2="611.2"/>
+<line class="dim" x1="500.0" y1="623.2" x2="500.0" y2="611.2"/>
+<text class="dimt" x="314.0" y="611.2" text-anchor="middle">310</text>
+<line class="dim" x1="65.6" y1="563.2" x2="65.6" y2="474.4"/>
+<line class="dim" x1="59.6" y1="563.2" x2="71.6" y2="563.2"/>
+<line class="dim" x1="59.6" y1="474.4" x2="71.6" y2="474.4"/>
+<text class="dimt" x="57.2" y="518.8" text-anchor="middle" transform="rotate(-90 57.2 518.8)">74</text>
+<line class="dim" x1="65.6" y1="474.4" x2="65.6" y2="252.4"/>
+<line class="dim" x1="59.6" y1="474.4" x2="71.6" y2="474.4"/>
+<line class="dim" x1="59.6" y1="252.4" x2="71.6" y2="252.4"/>
+<text class="dimt" x="57.2" y="363.4" text-anchor="middle" transform="rotate(-90 57.2 363.4)">okno 185</text>
+<line class="dim" x1="65.6" y1="252.4" x2="65.6" y2="88.0"/>
+<line class="dim" x1="59.6" y1="252.4" x2="71.6" y2="252.4"/>
+<line class="dim" x1="59.6" y1="88.0" x2="71.6" y2="88.0"/>
+<text class="dimt" x="57.2" y="170.2" text-anchor="middle" transform="rotate(-90 57.2 170.2)">137</text>
+<line class="dim" x1="32.0" y1="563.2" x2="32.0" y2="88.0"/>
+<line class="dim" x1="26.0" y1="563.2" x2="38.0" y2="563.2"/>
+<line class="dim" x1="26.0" y1="88.0" x2="38.0" y2="88.0"/>
+<text class="dimt" x="23.6" y="325.6" text-anchor="middle" transform="rotate(-90 23.6 325.6)">396 (odčítané)</text>
+<line class="dim" x1="606.8" y1="563.2" x2="606.8" y2="370.0"/>
+<line class="dim" x1="600.8" y1="563.2" x2="612.8" y2="563.2"/>
+<line class="dim" x1="600.8" y1="370.0" x2="612.8" y2="370.0"/>
+<text class="dimt" x="615.2" y="466.6" text-anchor="middle" transform="rotate(-90 615.2 466.6)">161</text>
+<line class="dim" x1="606.8" y1="358.0" x2="606.8" y2="262.0"/>
+<line class="dim" x1="600.8" y1="358.0" x2="612.8" y2="358.0"/>
+<line class="dim" x1="600.8" y1="262.0" x2="612.8" y2="262.0"/>
+<text class="dimt" x="615.2" y="310.0" text-anchor="middle" transform="rotate(-90 615.2 310.0)">dvere 80</text>
+<line class="dim" x1="606.8" y1="262.0" x2="606.8" y2="88.0"/>
+<line class="dim" x1="600.8" y1="262.0" x2="612.8" y2="262.0"/>
+<line class="dim" x1="600.8" y1="88.0" x2="612.8" y2="88.0"/>
+<text class="dimt" x="615.2" y="175.0" text-anchor="middle" transform="rotate(-90 615.2 175.0)">145</text>
+<line class="dim" x1="642.8" y1="370.0" x2="642.8" y2="88.0"/>
+<line class="dim" x1="636.8" y1="370.0" x2="648.8" y2="370.0"/>
+<line class="dim" x1="636.8" y1="88.0" x2="648.8" y2="88.0"/>
+<text class="dimt" x="651.2" y="229.0" text-anchor="middle" transform="rotate(-90 651.2 229.0)">235</text>
+<line class="dim" x1="401.0" y1="323.2" x2="401.0" y2="160.0"/>
+<line class="dim" x1="395.0" y1="323.2" x2="407.0" y2="323.2"/>
+<line class="dim" x1="395.0" y1="160.0" x2="407.0" y2="160.0"/>
+<text class="dimt" x="409.4" y="241.6" text-anchor="middle" transform="rotate(-90 409.4 241.6)">136 voľno</text>
+<line class="dim" x1="148.4" y1="174.4" x2="220.4" y2="174.4"/>
+<line class="dim" x1="148.4" y1="180.4" x2="148.4" y2="168.4"/>
+<line class="dim" x1="220.4" y1="180.4" x2="220.4" y2="168.4"/>
+<text class="dimt" x="184.4" y="168.4" text-anchor="middle">60</text>
+<line class="dim" x1="220.4" y1="174.4" x2="316.4" y2="174.4"/>
+<line class="dim" x1="220.4" y1="180.4" x2="220.4" y2="168.4"/>
+<line class="dim" x1="316.4" y1="180.4" x2="316.4" y2="168.4"/>
+<text class="dimt" x="268.4" y="168.4" text-anchor="middle">80</text>
+<line class="dim" x1="316.4" y1="174.4" x2="556.4" y2="174.4"/>
+<line class="dim" x1="316.4" y1="180.4" x2="316.4" y2="168.4"/>
+<line class="dim" x1="556.4" y1="180.4" x2="556.4" y2="168.4"/>
+<text class="dimt" x="436.4" y="168.4" text-anchor="middle">4 × 50</text>
+<text class="inv" x="531.2" y="466.6" text-anchor="middle" transform="rotate(-90 531.2 466.6)">jadro</text></svg>
